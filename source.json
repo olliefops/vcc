@@ -12,6 +12,7 @@
         "url":"https://github.com/olliefops/vcc",
         "text":"View on GitHub"
     },
+	"bannerUrl": "ollie-banner.webp",
     "githubRepos":[
         "olliefops/wpc"
     ],
