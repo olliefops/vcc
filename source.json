@@ -1,20 +1,20 @@
 {
-    "name":"OllieDev",
-    "id":"com.ByOllie",
-    "url":"https://vcc.olliedev.ca/index.json",
+    "name":"OllieFops",
+    "id":"com.olliefops",
+    "url":"https://vcc.olliefops.ca/index.json",
     "author":{
-        "email":"hello@olliedev.ca",
-        "name":"OllieDev",
+        "email":"hey@olliefops.com",
+        "name":"OllieFops",
         "url":"https://www.olliedev.ca"
     },
     "description":"A couple of Ollie's creations",
     "infoLink":{
-        "url":"https://github.com/theolliedev/vcc",
+        "url":"https://github.com/olliefops/vcc",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "theolliedev/wpc"
+        "olliefops/wpc"
     ],
     "packages":[]
 }
